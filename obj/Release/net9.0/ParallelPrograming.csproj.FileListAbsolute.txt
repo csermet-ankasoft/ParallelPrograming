@@ -1,0 +1,15 @@
+C:\Users\caner\Projects\Master\ParallelPrograming\bin\Release\net9.0\ParallelPrograming.exe
+C:\Users\caner\Projects\Master\ParallelPrograming\bin\Release\net9.0\ParallelPrograming.deps.json
+C:\Users\caner\Projects\Master\ParallelPrograming\bin\Release\net9.0\ParallelPrograming.runtimeconfig.json
+C:\Users\caner\Projects\Master\ParallelPrograming\bin\Release\net9.0\ParallelPrograming.dll
+C:\Users\caner\Projects\Master\ParallelPrograming\bin\Release\net9.0\ParallelPrograming.pdb
+C:\Users\caner\Projects\Master\ParallelPrograming\obj\Release\net9.0\ParallelPrograming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caner\Projects\Master\ParallelPrograming\obj\Release\net9.0\ParallelPrograming.AssemblyInfoInputs.cache
+C:\Users\caner\Projects\Master\ParallelPrograming\obj\Release\net9.0\ParallelPrograming.AssemblyInfo.cs
+C:\Users\caner\Projects\Master\ParallelPrograming\obj\Release\net9.0\ParallelPrograming.csproj.CoreCompileInputs.cache
+C:\Users\caner\Projects\Master\ParallelPrograming\obj\Release\net9.0\ParallelPrograming.sourcelink.json
+C:\Users\caner\Projects\Master\ParallelPrograming\obj\Release\net9.0\ParallelPrograming.dll
+C:\Users\caner\Projects\Master\ParallelPrograming\obj\Release\net9.0\refint\ParallelPrograming.dll
+C:\Users\caner\Projects\Master\ParallelPrograming\obj\Release\net9.0\ParallelPrograming.pdb
+C:\Users\caner\Projects\Master\ParallelPrograming\obj\Release\net9.0\ParallelPrograming.genruntimeconfig.cache
+C:\Users\caner\Projects\Master\ParallelPrograming\obj\Release\net9.0\ref\ParallelPrograming.dll
